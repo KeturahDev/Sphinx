@@ -10,7 +10,8 @@ class Sphinx
 
     if (userInput == "footsteps" || userInput == "Footsteps")
     {
-      Console.WriteLine("YOU Didnt die- Sphinx will ask you anaother ridddle");
+      Console.WriteLine("You live... FOR NOW!");
+      Console.WriteLine("What is more useful when it is broken?");
     }
     else 
     {
