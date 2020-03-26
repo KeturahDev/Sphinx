@@ -1,6 +1,6 @@
 # Deafeat Sphinx
 
-#### _C# Week One Practice _24th Feb. 2020_
+#### C# Week One Practice _24th Feb. 2020_
 
 #### By _**Keturah Howard, Geoff Goetz **_
 
